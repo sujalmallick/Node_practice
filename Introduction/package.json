@@ -1,0 +1,16 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "Hell yeah this project is my first backend project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "khul-ja-bkl": "node app.js"
+  },
+  "author": "Sujal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
